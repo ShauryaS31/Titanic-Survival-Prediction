@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction-using-Machine-Learning
+# Titanic Survival Prediction
 
 
 dataset - https://www.kaggle.com/c/titanic/
